@@ -28,6 +28,7 @@ if __name__=="__main__":
     total_letters=count_letters_in_numbers()
     print("Total letters used from 1 to 1000(inclusive):",total_letters)
 
-#output::Total letters used from 1 to 1000(inclusive): 21124
+#output::
+#Total letters used from 1 to 1000(inclusive): 21124
 
-=== Code Execution Successful ===
+#=== Code Execution Successful ===
